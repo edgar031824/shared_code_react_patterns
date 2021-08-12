@@ -8,5 +8,19 @@ This project is intended to explain in a brief way the most 3 commons ways to sh
 2. Render Prop
 3  Custom Hook
 
-The idea of this short example is to show how those patterns works through a simple example that do the same in the 3 scenarios 
+The idea of this short example is to show how those patterns works through a simple example that do the same in the 3 scenarios.
+
+## Installation
+- Install node.js from the website https://nodejs.org/en/download/,
+
+- Use the node package manager to install dependencies
+
+- go to the root folder and run the npm install command
+
+```
+npm install
+```
+- on the root folder, start the project with npm run start
+
+
 
