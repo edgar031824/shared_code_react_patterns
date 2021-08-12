@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is intended to explain in a brief way the most 3 commons ways to share logic and avoid duplicate code between react components, the following items are considered a react patterns:
+This project is intended to explain in a brief way the most 3 commons ways to share logic and avoid duplicate code between react components, the following items are considered as a react patterns:
 
 1. HOC 
 2. Render Prop
