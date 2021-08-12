@@ -6,7 +6,7 @@ This project is intended to explain in a brief way the most 3 commons ways to sh
 
 1. HOC 
 2. Render Prop
-3  Custom Hook
+3. Custom Hook
 
 The idea of this short example is to show how those patterns works through a simple example that do the same in the 3 scenarios.
 
